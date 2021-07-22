@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=cyan">
 
 <p align="center">
-<img align="center" src="https://i.pinimg.com/originals/75/fe/71/75fe7187ba3885bd6ddc193d150ca114.jpg" width="450px"/>
+<img align="center" src="https://i.pinimg.com/originals/75/fe/71/75fe7187ba3885bd6ddc193d150ca114.jpg" width="650px"/>
 </p>
