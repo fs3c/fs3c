@@ -2,7 +2,6 @@
 
 :mailbox: Reach me out!
 
-[![Mail Badge](https://img.shields.io/badge/-feels-6A5ACD?style=flat&labelColor=6A5ACD&logo=discord&logoColor=white)](https://discord.gg/Etunk9hg)
 [![Mail Badge](https://img.shields.io/badge/-feels-6A5ACD?style=flat&labelColor=6A5ACD&logo=discord&logoColor=white)](https://discord.gg/devnoias)
 
 ### About Me:
