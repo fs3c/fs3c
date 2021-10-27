@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/angular.js-0A0A0A?style=for-the-badge&logo=angularjs&logoColor=red">
   <img src="https://img.shields.io/badge/php-0A0A0A?style=for-the-badge&logo=php&logoColor=blue">
   <img src="https://img.shields.io/badge/Windows-0A0A0A?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/VueJs-0A0A0A?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/VueJs-0A0A0A?style=for-the-badge&logo=vuejs&logoColor=white">
 
 <p align="center">
 <img align="center" src="https://i.pinimg.com/originals/75/fe/71/75fe7187ba3885bd6ddc193d150ca114.jpg" width="650px"/>
